@@ -1,3 +1,5 @@
+# This repo has been excluded from Hacktoberfest_2k22.
+
 #  Hacktoberfest 2022 Is Awesome🔥
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
@@ -20,4 +22,4 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 # You can learn how to use [Git/GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/) from here.
 
-# Do connect with me on [Linkedin](https://www.linkedin.com/in/ayush-lath-917388195/) [GitHub](https://github.com/Ayushlath) 
+# Do connect with me on [Linkedin](https://www.linkedin.com/in/ayush-lath-917388195/) & [GitHub](https://github.com/Ayushlath) 
